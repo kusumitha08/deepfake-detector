@@ -107,8 +107,18 @@ python app.py
 * Deploy as a full-stack web application
 
 ---
+## 📸 Preview
+
+### 🔹 Application Interface
+
+<img width="1919" height="950" alt="image" src="https://github.com/user-attachments/assets/92828427-081b-414f-b41d-0e883dd05dce" />
 
 
+### 🔹 Prediction Result
+
+<img width="1917" height="946" alt="Screenshot 2026-03-19 144047" src="https://github.com/user-attachments/assets/5d122e99-53eb-4b98-9c1d-35a2cf1ce902" />
+
+---
 ## ⭐ Acknowledgment
 
 This project is developed to demonstrate practical applications of AI/ML in solving real-world problems like deepfake detection.
