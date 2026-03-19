@@ -1,0 +1,8 @@
+model/
+venv/
+*.safetensors
+*.dll
+*.lib
+__pycache__/
+data/
+dataset/
