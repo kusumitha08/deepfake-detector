@@ -1,6 +1,6 @@
-# 🧠 Deepfake Image Detection System
+#  Deepfake Image Detection System
 
-## 📌 Overview
+##  Overview
 
 This project focuses on detecting deepfake images using Artificial Intelligence and Deep Learning techniques. Deepfakes are manipulated or synthetic images that can mislead users and pose serious security risks.
 
@@ -8,7 +8,7 @@ The system analyzes facial features and visual inconsistencies to classify wheth
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 * Detect deepfake images accurately
 * Improve trust in digital media
@@ -16,17 +16,17 @@ The system analyzes facial features and visual inconsistencies to classify wheth
 
 ---
 
-## 🧠 Technologies Used
+##  Technologies Used
 
 * Python
-* Deep Learning (CNN)
+* Deep Learning
 * Computer Vision
 * PyTorch
 * Streamlit (for UI)
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 1. User uploads an image
 2. Image is preprocessed (resizing, normalization)
@@ -35,7 +35,7 @@ The system analyzes facial features and visual inconsistencies to classify wheth
 
 ---
 
-## 📊 Features
+##  Features
 
 * Real vs Fake image classification
 * User-friendly interface
@@ -44,7 +44,7 @@ The system analyzes facial features and visual inconsistencies to classify wheth
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 deepfake_detector/
@@ -57,11 +57,11 @@ deepfake_detector/
 
 ---
 
-## ⚠️ Note on Model Files
+##  Note on Model Files
 
 Due to GitHub file size limitations, trained model files are not included in this repository.
 
-👉 The model can be downloaded using the provided script:
+ The model can be downloaded using the provided script:
 
 ```
 python download_model.py
@@ -69,7 +69,7 @@ python download_model.py
 
 ---
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 
 ### 1. Clone the repository
 
@@ -92,7 +92,7 @@ python app.py
 
 ---
 
-## 🚀 Applications
+##  Applications
 
 * Social media content verification
 * Cybersecurity and fraud detection
@@ -100,14 +100,14 @@ python app.py
 
 ---
 
-## 📈 Future Improvements
+##  Future Improvements
 
 * Improve model accuracy with larger datasets
 * Extend to video deepfake detection
 * Deploy as a full-stack web application
 
 ---
-## 📸 Preview
+##  Preview
 
 ### 🔹 Application Interface
 
@@ -119,6 +119,6 @@ python app.py
 <img width="1917" height="946" alt="Screenshot 2026-03-19 144047" src="https://github.com/user-attachments/assets/5d122e99-53eb-4b98-9c1d-35a2cf1ce902" />
 
 ---
-## ⭐ Acknowledgment
+##  Acknowledgment
 
 This project is developed to demonstrate practical applications of AI/ML in solving real-world problems like deepfake detection.
